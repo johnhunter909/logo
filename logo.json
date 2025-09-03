@@ -1,0 +1,13 @@
+{
+    "name": "Tether USDT ",
+    "symbol": "USDT ",
+    "address": "TXUgoW776ug6pVgQeoUAuJJMBdy9sfVqQk",
+    "chainId": 10000001,
+    "decimals": 6,
+    "logoURI": "https://https://static.tronscan.org/production/logo/usdtlogo.png",
+    "tags": [
+        "test",
+        "cybersecurity",
+        "premium"
+    ]
+}
