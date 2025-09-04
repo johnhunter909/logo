@@ -1,1 +1,10 @@
-
+"name": "Tether USDT ",
+  "symbol": "USDT ",
+  "decimals": 6,
+  "status": "active",
+  "id": "TXUgoW776ug6pVgQeoUAuJJMBdy9sfVqQk",
+  "type": "TRC20",
+  "website": "https://tron.network/usdt/",
+  "explorer": "https://tronscan.org/#/token20/TXUgoW776ug6pVgQeoUAuJJMBdy9sfVqQk",
+  "description": "."
+}
